@@ -57,6 +57,7 @@ B --> C[Translation Layer]
 C --> D[Live Caption UI / Text-to-Speech]
 E[Webcam Feed] --> F[Sign Language Detection Model]
 F --> G[Text/Speech Output]
+```
 
 ## 🚀 Getting Started
 1. Clone the Repo
