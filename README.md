@@ -63,7 +63,7 @@ F --> G[Text/Speech Output]
 1. Clone the Repo
 
 ```
-git clone https://github.com/your-username/EasySpeak.git
+git clone https://github.com/GTAJIT/EasySpeak.git
 cd EasySpeak
 ```
 
