@@ -57,3 +57,19 @@ B --> C[Translation Layer]
 C --> D[Live Caption UI / Text-to-Speech]
 E[Webcam Feed] --> F[Sign Language Detection Model]
 F --> G[Text/Speech Output]
+
+## 🚀 Getting Started
+1. Clone the Repo
+bash
+Copy
+Edit
+git clone https://github.com/your-username/EasySpeak.git
+cd EasySpeak
+2. Load Extension in Chrome
+Open chrome://extensions/
+
+Enable Developer Mode
+
+Click Load Unpacked
+
+Select the /extension directory
