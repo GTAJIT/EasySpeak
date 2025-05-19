@@ -15,7 +15,7 @@
     }
   },
   "side_panel": {
-    "default_path": "panel.html"
+    "default_path": "sidepanel.html"
   },
   "icons": {
     "128": "assets/logo.png"
