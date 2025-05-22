@@ -1,0 +1,14 @@
+# Ignore all node dependencies
+**/node_modules/
+**/dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Rust
+/target/
+
+# dotenv
+.env
